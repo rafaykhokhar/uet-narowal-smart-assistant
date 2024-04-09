@@ -1,0 +1,1 @@
+ /Users/tenstar/Desktop/flutter\ projects/uet-narowal-smart-assistant/.dart_tool/flutter_build/bf301b22571bad5f6dad34fe6aa5cdd1/native_assets.yaml: 
