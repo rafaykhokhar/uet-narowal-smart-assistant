@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'general_screen.dart';
-import '../map_screen.dart';
+import 'map_screen.dart';
 import 'chatbot_screen.dart';
 
 class CustomBottomNavBar extends StatefulWidget {

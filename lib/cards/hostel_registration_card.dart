@@ -1,4 +1,3 @@
-// File: hostel_registration_card.dart
 import 'package:flutter/material.dart';
 import '../card_screens/hostel_registration_screen.dart';
 
@@ -9,7 +8,6 @@ class HostelRegistrationCard extends StatelessWidget {
   Widget build(BuildContext context) {
     return InkWell(
       onTap: () {
-        // Add your navigation code here
         Navigator.push(
           context,
           MaterialPageRoute(builder: (context) => HostelRegistrationScreen()),
@@ -38,5 +36,3 @@ class HostelRegistrationCard extends StatelessWidget {
     );
   }
 }
-
-// Similarly create files like: info_card.dart, map_card.dart, chat_card.dart

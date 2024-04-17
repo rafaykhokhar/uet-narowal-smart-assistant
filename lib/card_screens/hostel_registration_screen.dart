@@ -1,16 +1,17 @@
 import 'package:flutter/material.dart';
 
 class HostelRegistrationScreen extends StatelessWidget {
-  const HostelRegistrationScreen({super.key});
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('HostelRegistrationScreen'),
+        title: Text('Hostel Registration'),
       ),
       body: Center(
-        child: Text('Idress Pathi Hostel wala'),
+        child: Text(
+          'This is idrees pathi hostel wala',
+          style: TextStyle(fontSize: 20),
+        ),
       ),
     );
   }
